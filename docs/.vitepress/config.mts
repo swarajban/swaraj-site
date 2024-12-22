@@ -32,6 +32,10 @@ export default defineConfig({
       }
     ],
 
+    search: {
+      provider: 'local',
+    },
+
     socialLinks: [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/swarajban' },
       { icon: 'x', link: 'https://x.com/swarajban' },
