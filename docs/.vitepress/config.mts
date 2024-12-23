@@ -48,7 +48,7 @@ export default defineConfig({
       { icon: 'x', link: 'https://x.com/swarajban' },
       { icon: 'github', link: 'https://github.com/swarajban' },
       { icon: 'soundcloud', link: 'https://soundcloud.com/swarajban' },
-      { icon: 'mailgun', link: 'mailto:swarajban@gmail.com' }
+      { icon: 'mailgun', link: 'mailto:hello@swaraj.ing' }
     ],
   }
 })
