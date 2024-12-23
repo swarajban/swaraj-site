@@ -5,7 +5,14 @@ export default defineConfig({
   title: "Swaraj-ing",
   description: "My personal site",
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    // favicon
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+
+    // simple analytics
+    ['script', {
+      async: '',
+      src: 'https://scripts.simpleanalyticscdn.com/latest.js',
+    }]
   ],
   themeConfig: {
     logo: '/hero.png',
