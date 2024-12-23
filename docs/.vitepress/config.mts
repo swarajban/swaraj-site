@@ -47,7 +47,12 @@ export default defineConfig({
       provider: 'local',
     },
 
-    lastUpdated: true,
+    lastUpdated: {
+      text: 'Last updated',
+      formatOptions: {
+        dateStyle: 'full'
+      }
+    },
 
     socialLinks: [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/swarajban' },
