@@ -12,7 +12,11 @@ export default defineConfig({
     ['script', {
       async: '',
       src: 'https://scripts.simpleanalyticscdn.com/latest.js',
-    }]
+    }],
+    ['script', {
+      async: '',
+      src: 'https://scripts.simpleanalyticscdn.com/auto-events.js',
+    }],
   ],
   themeConfig: {
     logo: '/hero.png',
