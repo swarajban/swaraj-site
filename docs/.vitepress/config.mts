@@ -47,6 +47,8 @@ export default defineConfig({
       provider: 'local',
     },
 
+    lastUpdated: true,
+
     socialLinks: [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/swarajban' },
       { icon: 'x', link: 'https://x.com/swarajban' },
