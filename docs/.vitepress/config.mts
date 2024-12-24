@@ -38,7 +38,8 @@ export default defineConfig({
       {
         text: 'About',
         items: [
-          { text: 'About me', link: '/about/about-me' }
+          { text: 'About me', link: '/about/about-me' },
+          { text: 'Stack', link: '/about/stack' }
         ]
       }
     ],
