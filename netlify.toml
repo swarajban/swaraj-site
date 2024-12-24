@@ -8,4 +8,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-        Content-Security-Policy = "script-src 'self' 'unsafe-inline' https://scripts.simpleanalyticscdn.com; connect-src 'self' https://queue.simpleanalyticscdn.com; img-src 'self' data: https://queue.simpleanalyticscdn.com https://simpleanalyticsbadges.com https://swaraj.ing;"
+        Content-Security-Policy = "script-src 'self' 'unsafe-inline' https://scripts.simpleanalyticscdn.com https://giscus.app; connect-src 'self' https://queue.simpleanalyticscdn.com https://giscus.app; img-src 'self' data: https://queue.simpleanalyticscdn.com https://simpleanalyticsbadges.com https://swaraj.ing;"
