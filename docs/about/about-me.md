@@ -1,5 +1,6 @@
 ---
 prev: false
+comments: false
 ---
 
 # About me
