@@ -2,6 +2,7 @@
 prev: false
 next: false
 comments: false
+description: "Stack for my site"
 ---
 
 # Stack
