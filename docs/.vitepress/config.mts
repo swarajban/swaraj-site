@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Swaraj-ing",
-  description: "My personal site",
+  description: "Swaraj-ing",
   head: [
     // favicon
     ['link', { rel: 'icon', href: '/favicon.ico' }],
