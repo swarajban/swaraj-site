@@ -9,7 +9,7 @@ description: "Stack for my site"
 
 ## Primary goals
 - Markdown-based, minimal interactivity
-- Completely free
+- Completely free to operate
 
 ## Open source
 - Framework / site scaffolding: [VitePress](https://vitepress.dev/)
@@ -17,6 +17,6 @@ description: "Stack for my site"
 
 
 ## 3rd party services
-- Hosting & HTTPS: Netlify
+- Hosting, CI, DNS, & HTTPS: [Netlify](https://www.netlify.com/)
 - Analytics: [Simple Analytics](https://www.simpleanalytics.com/)
-- Domain registrar: Namecheap
+- Email forwarding to personal Gmail: [ImprovMX](https://improvmx.com/)
